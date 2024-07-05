@@ -1,0 +1,48 @@
+.b{
+    color: aqua;
+    background: black;
+    animation: reverse;
+    position: relative;
+    left: 150px;
+    width: 150px;
+    bottom: -115px;  
+    border-radius: 40px 40px 40px 40px;  
+    border-color: aqua;
+
+}
+
+.o{
+    color: aqua;
+    background: black;
+    position: relative;
+    left: 500px;
+    width: 150px;
+    bottom: -75px;
+    border-radius: 40px 40px 40px 40px;
+    border-color: aqua;
+    
+    
+}
+.d{
+    color: aqua;
+    background: black;
+    position: relative;
+    border-color: aqua;
+
+    left: 850px;
+    width: 150px;
+    bottom: -35px;   
+    border-radius: 40px 40px 40px 40px;
+}
+.g{
+    color: aqua;
+    background: black;
+    position: relative;
+    left: 1220px;
+    width: 150px;
+    border-radius: 40px 40px 40px 40px;
+    border-color: aqua;
+}
+body{
+    background-image: url("pexels-pixabay-531880.jpg");
+}
